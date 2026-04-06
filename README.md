@@ -103,7 +103,7 @@ requirements.txt
 ### 1. Clone project
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com//LaithALhaware/Smart-Universal-Invoice-System
 cd your-repo
 ```
 
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 ### 3. Run system
 
 ```
-python main.py
+python web.py
 ```
 
 ### 4. Open in browser
@@ -187,12 +187,3 @@ http://localhost:8080
 
 ---
 
-## 👨‍💻 Author
-
-**Laith Al-Haware**
-
----
-
-## ⭐ License
-
-MIT License
