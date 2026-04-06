@@ -85,15 +85,31 @@ A powerful, flexible, and modern invoice management system designed for **any ty
 /Screenshot
 /Static
    /ALL_Invoice
+      'DXB M 24536.json'
    /css
-   /images
+      Main.css
+   /IMG
+      icon.svg
+      /Parts
+   /translated
+      en.json
+   config.php
+   Default.json
+   logo_1775338194.png
+   'DXB V 69918.json'
+   settings.json
 
-index.php
-invoice.php
+Add_Invoice.php
+Edit_Settings.php
 Login.php
-config.php
-main.py
 requirements.txt
+Edit_Invoice.php
+index.php
+Logout.php
+Edit_Parts.php
+Invoice.php
+Receipt.php
+web.py
 ```
 
 ---
