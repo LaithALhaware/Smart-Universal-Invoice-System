@@ -119,7 +119,7 @@ web.py
 ### 1. Clone project
 
 ```
-git clone https://github.com//LaithALhaware/Smart-Universal-Invoice-System
+git clone https://github.com/LaithALhaware/Smart-Universal-Invoice-System.git
 cd your-repo
 ```
 
