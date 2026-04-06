@@ -1,0 +1,18 @@
+{
+    "System_name": "Billing System",
+    "company_name": "4x4 OFF ROAD GARAGE",
+    "company_tagline": "hgjhgjhg",
+    "logo_path": "Static\/logo_1775338194.png",
+    "logo_initials": "ARB",
+    "invoice_prefix": "INV",
+    "vat_rate": 5,
+    "currency": "AED",
+    "email": "info@4x4offroad.com",
+    "phone": "",
+    "address_line1": "Dubai",
+    "address_line2": "AL Qarhood",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "Lang": "en",
+    "Direction": "left"
+}

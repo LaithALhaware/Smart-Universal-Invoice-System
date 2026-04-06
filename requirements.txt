@@ -1,0 +1,18 @@
+# ================================
+
+# Smart Invoice Translation API
+
+# Requirements File
+
+# ================================
+
+# Core dependency for translation
+
+deep-translator==1.11.4
+
+# (Optional - Uncomment if upgrading to FastAPI in future)
+
+# fastapi==0.110.0
+
+# uvicorn==0.29.0
+

@@ -1,0 +1,194 @@
+{
+    "Invoice_info": {
+        "Name": "Jeep Wrangler Unlimited 4 door 2013",
+        "chassis_number": "1C4BJdDG3DL654826",
+        "plate_number": "DXB M 24536",
+        "Invoice_number": "INV-7XbwJ-ixoMN",
+        "Date": "2026-04-06",
+        "Time": "02:47 AM",
+        "paint": 100,
+        "safaf": 200
+    },
+    "accessories": [
+        {
+            "name": "Gumper Front Bumper Full Width",
+            "image": "Static\/IMG\/Parts\/J131950_alt10.webp",
+            "price": 2950,
+            "real_price": 2520,
+            "installation_cost": 800,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/61dbd35cd0a9fc0016fde663"
+        },
+        {
+            "name": "Roof Rack",
+            "image": "Static\/IMG\/Parts\/Roof Rack_For-Jeep-Wrangler-Steel-Roof-Rack-With-Ladder-FITS-TO-4-DOORS-JL-4x4Car-Roof-Rack.png",
+            "price": 1450,
+            "real_price": 1200,
+            "installation_cost": 600,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/622c4e4e9dbc150016c962a1"
+        },
+        {
+            "name": "Wrangler Windshield Frame Cover Roof Sun Visor Cowl Body Armor",
+            "image": "Static\/IMG\/Parts\/Wrangler Windshield Frame Cover Roof Sun Visor Cowl Body Armor_s-l1600.jpg",
+            "price": 2550,
+            "real_price": 1950,
+            "installation_cost": 800,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/ar.aliexpress.com\/item\/1005009381985107.html?spm=a2g0o.order_list.order_list_main.4.18751802prp35N&gatewayAdapt=glo2ara"
+        },
+        {
+            "name": "Shovel",
+            "image": "Static\/IMG\/Parts\/Shovel_61itLoCAIlL._AC_SL1500_.jpg",
+            "price": 60,
+            "real_price": 15,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "Gasoline Door Hinge Locking Mount",
+            "image": "Static\/IMG\/Parts\/Gasoline Door Hinge Locking Mount_0024_A2701-16901-00.png",
+            "price": 200,
+            "real_price": 148,
+            "installation_cost": 100,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "5L Backup Gas Can",
+            "image": "Static\/IMG\/Parts\/5L Backup Gas Can_61Q1pKEj6dL._AC_SX569_.jpg",
+            "price": 450,
+            "real_price": 155,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.amazon.ae\/dp\/B0CYLQP4Q1?ref=ppx_yo2ov_dt_b_fed_asin_title"
+        },
+        {
+            "name": "JK Avenger Hood",
+            "image": "Static\/IMG\/Parts\/JK Avenger Hood_yiowevnhyxqg2c8zrauo.jpg",
+            "price": 1300,
+            "real_price": 900,
+            "installation_cost": 350,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/61d92ec8ef1cf80016927f1f"
+        },
+        {
+            "name": "Petrol Cover",
+            "image": "Static\/IMG\/Parts\/Petrol Cover_81oAJqHm9bL._AC_UF350,350_QL50_.jpg",
+            "price": 150,
+            "real_price": 120,
+            "installation_cost": 50,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/61ee73d3cc712d0016d855e2"
+        },
+        {
+            "name": "Decorative Light Night Auxiliary Driving Lights Car High Brightness Neon Light Kit 12V for Car Motorcycle Handle Mirror Lights",
+            "image": "Static\/IMG\/Parts\/f9ee4cec-7ff8-4f88-b779-bb4c3863453b.png",
+            "price": 30,
+            "real_price": 13,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.temu.com\/goods.html?_bg_fs=1&goods_id=601100040305168&sku_id=17594434241087&_x_vst_scene=adg&_x_ads_channel=google&_x_ads_sub_channel=search&_x_ads_account=4755542991&_x_ads_set=21922252501&_x_ads_id=171343006755&_x_ads_creative_id=721860628775&_x_ns_source=g&_x_ns_gclid=Cj0KCQiA6NTJBhDEARIsAB7QHD0q2g90qMwZ3afK5AhkHUO_NOyLEoJheeFH0LBe_tdtWVAvCQ-yDw0aAjSTEALw_wcB&_x_ns_placement=&_x_ns_match_type=e&_x_ns_ad_position=&_x_ns_product_id=&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=CkAKCAiA6NTJBhAzEjAArLgil4SbDXEVG0DmRybOu0NkPrs0_GwKVElSt_HII3QaJH7htmViGEEmWtiFQz8aAnEq&_x_ns_gbraid=0AAAAAo4mICEgepePlgdaa-A8uEjH37cQ6&_x_ns_keyword=temu&_x_ns_targetid=kwd-4583699489&_x_ns_extensionid=&_x_sessn_id=jenoqf4avk&refer_page_name=bgt_order_detail&refer_page_id=10045_1765172565073_x6683mrj66&refer_page_sn=10045"
+        },
+        {
+            "name": "Light Beads Yellow Combo Working Light Bar for Car, Motorcycle, Light for Car, Offroad Lighting, Car Lighting, Multiring Design, Compact Light, Weatherresistant Build, Highintensity Leds, Work Light, Auxiliary Lighting, Adventure Seekers, Car Enthusiasts",
+            "image": "Static\/IMG\/Parts\/07b308a5-62a5-4798-8400-4f72ba9a2069.png",
+            "price": 40,
+            "real_price": 17,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": "https:\/\/www.temu.com\/goods.html?_bg_fs=1&goods_id=601101129128622&sku_id=17598391841945&_x_vst_scene=adg&_x_ads_channel=google&_x_ads_sub_channel=search&_x_ads_account=4755542991&_x_ads_set=21922252501&_x_ads_id=171343006755&_x_ads_creative_id=721860628775&_x_ns_source=g&_x_ns_gclid=Cj0KCQiA6NTJBhDEARIsAB7QHD0q2g90qMwZ3afK5AhkHUO_NOyLEoJheeFH0LBe_tdtWVAvCQ-yDw0aAjSTEALw_wcB&_x_ns_placement=&_x_ns_match_type=e&_x_ns_ad_position=&_x_ns_product_id=&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=CkAKCAiA6NTJBhAzEjAArLgil4SbDXEVG0DmRybOu0NkPrs0_GwKVElSt_HII3QaJH7htmViGEEmWtiFQz8aAnEq&_x_ns_gbraid=0AAAAAo4mICEgepePlgdaa-A8uEjH37cQ6&_x_ns_keyword=temu&_x_ns_targetid=kwd-4583699489&_x_ns_extensionid=&_x_sessn_id=jenoqf4avk&refer_page_name=bgt_order_detail&refer_page_id=10045_1765172515327_t0n320kusy&refer_page_sn=10045"
+        },
+        {
+            "name": "Hitch Mount Brackets",
+            "image": "Static\/IMG\/Parts\/1718619009531-a430fdb9a81442398e5170af2d5a922d-goods.webp",
+            "price": 100,
+            "real_price": 60,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "Brighten Your Night: LED Pods Light Bar 10.16 Cm, 1pcs X 72W 14400LM White Light",
+            "image": "Static\/IMG\/Parts\/7bad54a3-79d4-4aff-b892-25eac3c3ba05_912x912.webp",
+            "price": 30,
+            "real_price": 22,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "Mountain Range Vinyl Decals for Jeep - Durable, Easy Stick-On Car Exterior Accessories",
+            "image": "Static\/IMG\/Parts\/004b9e51-bd33-4ee6-bdab-3ec9b8a8406a.webp",
+            "price": 30,
+            "real_price": 0,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "Off-Road Adventure Decals for Jeep & SUV Modification",
+            "image": "Static\/IMG\/Parts\/7cfbf7d9-ee0d-45a4-8d63-9c437ea42aa8.webp",
+            "price": 30,
+            "real_price": 0,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "JEEP GRILL",
+            "image": "Static\/IMG\/Parts\/s-l1200.jpg",
+            "price": 300,
+            "real_price": 0,
+            "installation_cost": 0,
+            "quantity": 1,
+            "Paint": 0,
+            "URL_Link": ""
+        },
+        {
+            "name": "2x LED Tial Light",
+            "image": "Static\/IMG\/Parts\/2x LED Tial Light_WhatsAppImage2020-06-29at16.54.16_1024x.jpg",
+            "price": 550,
+            "real_price": 450,
+            "installation_cost": 150,
+            "Paint": 0,
+            "quantity": 1,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/61ea7053d250b0001642f861"
+        },
+        {
+            "name": "2x HedLights Full Ring",
+            "image": "Static\/IMG\/Parts\/2x HedLights Full Ring_71r1tafG3qL._AC_UF1000,1000_QL80_.jpg",
+            "price": 650,
+            "real_price": 400,
+            "installation_cost": 100,
+            "Paint": 0,
+            "quantity": 1,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/61e27f892610fd0016874c3b"
+        },
+        {
+            "name": "Lift Kit 1.5",
+            "image": "Static\/IMG\/Parts\/Lift Kit 15_51TIxEW7Z8L._UF1000,1000_QL80_.jpg",
+            "price": 3955,
+            "real_price": 3500,
+            "installation_cost": 750,
+            "Paint": 0,
+            "quantity": 1,
+            "URL_Link": "https:\/\/www.salwanauto.com\/product\/6225db879277bb0016713d6e"
+        }
+    ]
+}
