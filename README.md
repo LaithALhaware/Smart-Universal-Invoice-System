@@ -146,38 +146,22 @@ http://localhost:8080
 ## 📸 Screenshots
 
 ### 🧾 Invoice View
+### 📊 Cost Analysis & Summary
+### 🧩 Items & Details
+### 🎨 UI & Themes
+### 🌍 Multi-Language Support
 
 ![Invoice 1](Screenshot/Screenshot%20from%202026-04-06%2006-48-31.png)
 ![Invoice 2](Screenshot/Screenshot%20from%202026-04-06%2006-49-03.png)
 ![Invoice 3](Screenshot/Screenshot%20from%202026-04-06%2006-49-14.png)
-
----
-
-### 🧩 Items & Details
-
 ![Items 1](Screenshot/Screenshot%20from%202026-04-06%2006-50-24.png)
 ![Items 2](Screenshot/Screenshot%20from%202026-04-06%2006-51-04.png)
-
----
-
-### 🎨 UI & Themes
-
 ![Theme 1](Screenshot/Screenshot%20from%202026-04-06%2006-55-51.png)
 ![Theme 2](Screenshot/Screenshot%20from%202026-04-06%2006-56-45.png)
 ![Theme 3](Screenshot/Screenshot%20from%202026-04-06%2006-56-56.png)
-
----
-
-### 🌍 Multi-Language Support
-
 ![Lang 1](Screenshot/Screenshot%20from%202026-04-06%2006-57-03.png)
 ![Lang 2](Screenshot/Screenshot%20from%202026-04-06%2006-57-15.png)
 ![Lang 3](Screenshot/Screenshot%20from%202026-04-06%2006-57-22.png)
-
----
-
-### 📊 Cost Analysis & Summary
-
 ![Cost 1](Screenshot/Screenshot%20from%202026-04-06%2006-57-35.png)
 ![Cost 2](Screenshot/Screenshot%20from%202026-04-06%2006-57-48.png)
 ![Cost 3](Screenshot/Screenshot%20from%202026-04-06%2007-00-31.png)
@@ -202,4 +186,17 @@ http://localhost:8080
 * SaaS version
 
 ---
+
+
+## 📝 License
+This project is licensed under the **License**. See the [LICENSE.txt](LICENSE.txt) ⚖️ file for details.
+
+
+---
+## ❤️ Support This Project
+If you find this project useful, consider supporting its development:
+
+💰 Via PayPal: [[PayPal Link](https://www.paypal.com/ncp/payment/KC9EETJDVZQHG)]
+
+Your support helps keep this project alive! 🚀🔥
 
